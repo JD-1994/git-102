@@ -1,0 +1,13 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Directory for Windows Installer files
+/Installer/
+
+# Visual Studio Code settings
+.vscode/
+
+# Node.js
+/node_modules/
+
